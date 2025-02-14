@@ -16,7 +16,7 @@ ______$$______________________$$$
 _________$$_________________$$
 ___________$$$$$$$$$$$$$$$$$⠀⠀⠀⠀
 </code></pre>
-# Gindex
+# new-sys
 Google Indexing Using Indexing Api Python 
 Submit URLs in bulk to Google Indexing, fetching automatic urls from Sitemap.xml
 ```
