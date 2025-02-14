@@ -21,7 +21,7 @@ Google Indexing Using Indexing Api Python
 Submit URLs in bulk to Google Indexing, fetching automatic urls from Sitemap.xml
 ```
 git clone https://github.com/ara123123a/new-sys
-cd new-sys/
+cd new-sys
 pip install -r requirements.txt
 python run.py
 ```
